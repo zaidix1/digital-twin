@@ -1,0 +1,31 @@
+{
+    "full_name": "Asad Zaidi",
+    "name": "zaidix",
+    "current_role": "AI/ML Solution Architect",
+    "location": "Dallas",
+    "email": "asadzaidi1@hotmail.com",
+    "linkedin": "linkedin.com/in/zaidix",
+    "youtube": "youtube.com/@zaidix",
+    "instagram": "instagram.com/zaidix",
+    "specialties": [
+      "AI/ML",
+      "Data Engineering",
+      "Data Science",
+      "Data Visualization",
+      "Data Architecture",
+      "Data Governance",
+      "Data Security",
+      "Data Compliance",
+      "Data Management",
+      "Data Analysis",
+      "Data Modeling"
+    ],
+    "years_experience": 17,
+    "education": [
+      {
+        "degree": "PhD in Computer Science",
+        "institution": "University of Texas at Dallas",
+        "year": "2021"
+      }
+    ]
+  }
